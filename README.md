@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- :sunglasses: I’m currently working on [VENDING_MACHINE_WITH_LIFT](https://github.com/anoofc/VENDING_MACHINE_WITH_LIFT_SLAVE_V1) :wink:; 
+- :sunglasses: I’m currently working on [TFMini Lidar Sensor Library](https://github.com/anoofc/TFminiLiDAR) :wink:; 
 - 🌱 I’m currently learning freeRTOS;
 - 💬 Ask me about anything, I am happy to help;
 - :rocket:[Portfolio](https://github.com/anoofc/)
